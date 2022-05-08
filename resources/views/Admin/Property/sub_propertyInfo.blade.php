@@ -1,0 +1,5 @@
+@include('Admin/layouts/header')
+@include('Admin/layouts/mainheader')
+@include('Admin/layouts/leftsidebar')
+    @include('Admin/layouts/Property/sub_propertyInfo') 
+@include('Admin/layouts/footer')
